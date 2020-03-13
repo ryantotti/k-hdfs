@@ -122,7 +122,7 @@ persistence:
   ##
   # storageClass: "-"
   accessMode: ReadWriteOnce
-  size: 5Gi
+  size: 1Gi
 
 ## Exporters query apps for metrics and make those metrics available for
 ## Prometheus to scrape.
